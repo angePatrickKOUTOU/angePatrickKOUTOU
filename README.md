@@ -4,20 +4,25 @@
 ```json
 {
     "Name": "Koutou Ange Patrick",
-    "Whoami": "Étudiant en L3 informatique",
+    "Job": "Étudiant en L3 informatique",
 
     "Software Dev": [
         "C++",
         "Java",
-        "Python"
     ],
-
+    
+    "Data": [
+        "Talend",
+        "Power BI",
+        "Excel", 
+        "SQL"
+    ]
+    
     "Web Dev": [
         "HTML/CSS",
         "Javascript",
         "Boostrap", 
         "SQL"
     ]
-
 }
 ```
