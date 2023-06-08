@@ -1,16 +1,23 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Koutou&fontSize=60&animation=fadeIn&fontAlignY=38&desc=C%2B%2B%20Developer&descAlignY=51&descAlign=62)
 
-<!--
-**angePatrickKOUTOU/angePatrickKOUTOU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```json
+{
+    "Name": "Koutou Ange Patrick",
+    "Whoami": "Étudiant en L3 informatique",
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    "Software Dev": [
+        "C++",
+        "Java",
+        "Python"
+    ],
+
+    "Web Dev": [
+        "HTML/CSS",
+        "Javascript",
+        "Boostrap", 
+        "SQL"
+    ]
+
+}
+```
