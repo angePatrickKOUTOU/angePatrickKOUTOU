@@ -22,7 +22,8 @@
         "HTML/CSS",
         "Javascript",
         "Boostrap", 
-        "SQL"
+        "SQL",
+        "Laravel"
     ]
 }
 ```
