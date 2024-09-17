@@ -4,7 +4,7 @@
 ```json
 {
     "Name": "Koutou Ange Patrick",
-    "Job": "Étudiant en L3 MIAGE à l'Université de Haute Alsace",
+    "Job": "Étudiant en Master I MIAGE option Big Data à l'Université de Haute Alsace",
 
     "Software Dev": [
         "C++",
