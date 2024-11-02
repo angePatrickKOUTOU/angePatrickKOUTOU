@@ -26,5 +26,16 @@
         "SQL",
         "Laravel"
     ]
+"Designer et monteur pro": [
+        "Photoshop",
+        "Illustrator",
+        "Premier pro", 
+        "Cinema 4D",
+        "After effect",
+        "Sony vegas"
+    ]
+"Maintenancier": [
+        "Hardware & software"
+    ]
 }
 ```
