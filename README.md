@@ -26,7 +26,7 @@
         "SQL",
         "Laravel"
     ]
-"Designer et monteur pro": [
+    "Designer et monteur pro": [
         "Photoshop",
         "Illustrator",
         "Premier pro", 
@@ -34,7 +34,7 @@
         "After effect",
         "Sony vegas"
     ]
-"Maintenancier": [
+    "Maintenancier": [
         "Hardware & software"
     ]
 }
