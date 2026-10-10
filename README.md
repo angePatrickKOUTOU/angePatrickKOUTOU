@@ -5,7 +5,7 @@
 {
     "Name": "Koutou Ange Patrick",
     "Etudiant Atypique"
-    "Job": "Étudiant en Master I MIAGE à l'Université de Haute Alsace",
+    "Job": "Étudiant en Master II MIAGE à l'Université de Haute Alsace",
 
     "Software Dev": [
         "C++",
@@ -21,10 +21,10 @@
     
     "Web Dev": [
         "HTML/CSS",
+        "PHP",
         "Javascript",
-        "Boostrap", 
-        "SQL",
-        "Laravel"
+        "Python", 
+        "SQL"
     ]
     "Designer et monteur pro": [
         "Photoshop",
